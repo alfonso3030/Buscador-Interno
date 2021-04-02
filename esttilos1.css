@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(148, 177, 177);
+    margin: 0px;
+    padding: 0px;
+}
+input{
+    position: 0px;
+}
+
+hr{
+    width: 100%;
+    height: 4px;
+    padding: 2px;
+}
+
+p{
+padding: block;
+}
+
+
+audio{
+    position: fixed;
+    margin-left: -150px;
+    margin-top: -10px;
+    z-index: 10000;
+
+}
+
+input {
+    position: relative;
+    margin-left: 95%;
+    margin-top: auto;
+}
+
+table{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: color white;
+    text-align: left;
+    width: 90px;
+}
+
+div{
+    margin-left: 90%;
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    position: absolute, 25, 99;
+}
+
+/*
+input{
+    width: 100%;
+    height: 50px;
+    padding: 0px;
+    position: fixed;
+    z-index:25% ;
+}
+
+
+
+
